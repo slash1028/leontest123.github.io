@@ -1,7 +1,0 @@
-# git add . ; git commit -m "Update" ; git push
-
-_site/
-
-backup/
-
-update.sh
